@@ -1,4 +1,4 @@
-### Hi I am Chamudi R. Wijesekera
+### Hi I am Chamudi Rashmini Wijesekera
 
 Reading a degree Bachelor of Computing (B. Comp.) at Curtin University. A quick learner with determination, looking for an opportunity to improve practical knowledge, and is keen to work in a competitive environment to gain more experience 
 

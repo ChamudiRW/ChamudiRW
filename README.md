@@ -1,5 +1,5 @@
 
-### Hi I'm Chamudi! 
+## Hi I'm Chamudi! 
 
 <img align='right' src="https://user-images.githubusercontent.com/75931718/130796991-2aeeb5c8-2620-4e5d-aa10-0fefe455c2ff.png" width="230">
 <br>

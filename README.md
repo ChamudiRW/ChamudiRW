@@ -1,4 +1,6 @@
-### Hi I'm Chamudi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+### Hi I'm Chamudi! 
+<img src="https://user-images.githubusercontent.com/75931718/130796991-2aeeb5c8-2620-4e5d-aa10-0fefe455c2ff.png" width="100">
 
 Undergraduate at <a href="https://www.sliit.lk/international/transfer-options/australia/curtin-university/">SLIIT - Curtin University</a> 
 

@@ -1,5 +1,5 @@
 ### Hi I am Chamudi Rashmini Wijesekera
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamudirw&label=Profile%20views&color=0e75b6&style=flat" alt="chamudirw" /> </p>
 Reading a degree Bachelor of Computing (B. Comp.) at Curtin University. A quick learner with determination, looking for an opportunity to improve practical knowledge, and is keen to work in a competitive environment to gain more experience 
 
 

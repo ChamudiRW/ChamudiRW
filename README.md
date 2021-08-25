@@ -15,7 +15,7 @@ const Chamu = {
                         LAMP: [Linux, Apache, MySQL, PHP],
                         MVCArchitecture: ["JavaServlets","Eclipse","tomcat", "SQLWorkbench"]
                       },
- challenge: "I am learning new technologies while perfecting the once I already know"
+ challenge: "I am learning new technologies while perfecting the ones I already know"
 }
 ```
 

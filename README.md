@@ -28,6 +28,7 @@ Connect with me:
   <a href="https://discord.gg/_M3i.RA_#4335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_M3i.RA_#4335" height="30" width="40" /></a>
 </p>
 
-<b>My GitHub Activity Graph</b>
+
+My GitHub Activity Graph
 
 [![Myactivitygraph](https://activity-graph.herokuapp.com/graph?username=ChamudiRW&theme=xcode)](https://git.io/ChamudiRW)

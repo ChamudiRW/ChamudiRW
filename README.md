@@ -1,7 +1,9 @@
-### Hi I'm Chamudi R Wijesekera
+### Hi I'm Chamudi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+Undergraduate at <a href="https://www.sliit.lk/international/transfer-options/australia/curtin-university/">SLIIT - Curtin University</a> 
 
 
-#Here is a bit about me
+Here is a bit about me
 ```javascript
 const Chamu = {
   pronouns: "she" | "her",
@@ -18,7 +20,7 @@ const Chamu = {
 ```
 
 
-<h3 align="left">Connect with me:</h3>
+Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/chamudirw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamudirw" height="30" width="40" /></a>
 <a href="https://instagram.com/_cha.mu_di_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_cha.mu_di_" height="30" width="40" /></a>

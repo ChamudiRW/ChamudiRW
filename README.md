@@ -32,7 +32,18 @@ const Chamu = {
                       },
  challenge: "I like to learn new technologies while perfecting the ones I already know"
 }
+  
+
 ```
-
-
+---  
+--- 
+  
+For academic purposes :
+```
+  Student registration number : IT19990828
+  Github username             : ChamudiRW
+  
+```
+--- 
+--- 
 

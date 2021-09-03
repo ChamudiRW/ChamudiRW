@@ -5,7 +5,7 @@
 <ul>
 <li>Undergraduate at <a href="https://www.sliit.lk/international/transfer-options/australia/curtin-university/">SLIIT - Curtin University</a> </li>
   <li>Workoholic</li>
-  </ul
+  </ul>
 <br><br>
 Connect with me: 
 <br><br>

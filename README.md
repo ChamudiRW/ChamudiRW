@@ -33,16 +33,5 @@ const Chamu = {
 }
   
 
-```
----  
---- 
-  
-For academic purposes :
-```
-  Student registration number : IT19990828
-  Github username             : ChamudiRW
-  
-```
---- 
---- 
+
 

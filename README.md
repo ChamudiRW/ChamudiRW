@@ -1,6 +1,7 @@
 ## Hi I'm Chamudi! 
 
-<img align='right' src="https://user-images.githubusercontent.com/75931718/163828475-73d9925b-464f-4bbd-a536-852dec0a10d3.png" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/75931718/172616622-540ccf63-6191-4867-8c61-d58228056ae5.png" width="230">
+
 
 <br> 
 <ul>

@@ -5,7 +5,7 @@
 
 <br> 
 <ul>
-<li>Bachelor of Computing (Software Engineering) graduate at <a href="https://www.sliit.lk/international/transfer-options/australia/curtin-university/">SLIIT - Curtin University</a> </li>
+<li>Bachelor of Computing (Software Engineering) graduate at <a href="https://www.sliit.lk/international/transfer-options/australia/curtin-university/">Curtin University</a> </li>
   <li>Workoholic</li>
   </ul>
 <br><br>
